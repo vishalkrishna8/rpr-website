@@ -1,0 +1,9 @@
+touch .gitignore
+git config --global user. name <"ur name">
+git config --global user.email <"ur email">
+git init
+git add .
+git commit -m "initial commit" (u can write any msg)
+git status (just to see)
+git remote add origin <url>
+git push origin master
